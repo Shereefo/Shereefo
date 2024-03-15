@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Highly available web application**
 
-- 🌱 I’m currently learning **GCP, Linux, Bash, and Python**
+- 🌱 I’m currently learning **Linux and Python**
 
 - 👯 I’m looking to collaborate on **Cloud (specifically AWS) projects**
 
