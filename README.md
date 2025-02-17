@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shereef Moez</h1>
 <h3 align="center">A learning driven and passionate Cloud Computing student</h3>
 
-- 🔭 I’m currently working on **Highly available web application**
+- 🔭 I’m currently working on **Social Media Scheduler Application**
 
-- 🌱 I’m currently learning **Linux and Python**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Cloud (specifically AWS) projects**
 
-- 🤝 I’m looking for help with **coding projects**
+- 🤝 I’m looking for help with **coding projects and APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shereefo](https://github.com/Shereefo)
 
