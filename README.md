@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shereef Moez</h1>
 <h3 align="center">A learning driven and passionate Cloud Computing student</h3>
 
-- 🔭 I’m currently working on my new **Social Media Scheduler Application**
+- 🔭 I’m currently working on my new **Cloud powered Social Media Scheduler application**
 
 - 🌱 I’m currently learning **Docker**
 
