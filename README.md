@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shereefo](https://github.com/Shereefo)
 
-- 💬 Ask me about **AWS**
-
 - 📫 How to reach me **shereefo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
