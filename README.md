@@ -15,10 +15,6 @@
 
 - 📫 How to reach me **shereefo@gmail.com**
 
-- 📄 Know about my experiences [/Users/shereefmoez/Downloads/Gray Clean Professional Resume.pdf](/Users/shereefmoez/Downloads/Gray Clean Professional Resume.pdf)
-
-- ⚡ Fun fact **I have always been interested in tech**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/shereefmoez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shereef-moez-9a99b6123" height="30" width="40" /></a>
