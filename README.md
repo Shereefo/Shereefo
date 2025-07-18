@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on my new **Cloud powered Social Media Scheduler application https://github.com/Shereefo/social-media-scheduler**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently implementing **CI/CD**
 
 - 👯 I’m looking to collaborate on **Cloud (specifically AWS) projects**
-
-- 🤝 I’m looking for help with **coding projects and APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shereefo](https://github.com/Shereefo)
 
